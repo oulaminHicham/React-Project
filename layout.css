@@ -1,0 +1,91 @@
+
+/* .gabary {
+    background-color: #A0DAA9;
+  } */
+.lead
+{
+color:#363945;
+border-radius: 10px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+font-size: 24px;
+font-weight: bold;
+}
+.FoodImages
+{
+    margin-bottom: -30px;
+}
+img
+{
+    width: 200px;
+}
+li a:hover
+{
+    background-color: #5d4848;
+    color:#000 ;
+    border-radius: 10px;
+    transform: scale(1,1);
+}
+.logo
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    font-variant: small-caps;
+    letter-spacing: 1.5px;
+}
+
+.wlcome--messge
+{
+    position: absolute;
+    top: -60px;
+    left: 20%;
+    z-index: 10;
+    height: 600px;
+    width: 700px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.wlcome--messge h4
+{
+    color: #FFF;
+    font-size: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.all--foods
+{
+    background-color:#404040 ;
+}
+.add--food
+{
+    background-color:#008080 ;
+}
+.pizzas
+{
+    background-color: #008080;
+    border-radius: 10px;
+}
+.sandwitchs
+{
+    background-color: #5d4848;
+    border-radius: 10px;
+}
+.gabarie
+{
+    position: relative;
+}
+.details--box ,.edit--food{
+    position: absolute;
+    z-index: 20;
+    top: 0;
+    left: 0;
+}
+/* ######################################### */
+
